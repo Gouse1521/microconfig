@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.Enumeration;
 import java.util.Iterator;
 
+
 public class Arraylist1 {
 
 	public static void main(String[] args) {
