@@ -79,7 +79,10 @@ public class Arraylist1 {
 	     
 	            System.out.println("Modified ArrayList : "
 	                                               + al2);
+	            
 	        }
+	
+	
 	    
 	}
 

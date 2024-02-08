@@ -13,7 +13,7 @@ public class HashMapEX1 {
 		
 		hp1.put(1, "Shaik Mayu");
 		
-		System.out.println(hp1);
+		System.out.println(hp1.put(1, "Hi"));
 		
 		for(Map.Entry<Integer, String> kv: hp1.entrySet()) {
 			
